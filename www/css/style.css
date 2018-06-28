@@ -1,0 +1,11 @@
+.bar-header .title img {
+	height: 24px;
+	vertical-align: middle;
+	margin-right: 5px;
+	margin-top: -5px;
+	background-color: #E62B1E;
+}
+.bar-positive{
+
+	background-color: #E62B1E;;
+}
